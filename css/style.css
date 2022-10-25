@@ -1,0 +1,10 @@
+h1{
+   text-align: center;
+   color: navy; 
+}
+p{
+    text-align: center;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1rem solid blue;
+}
